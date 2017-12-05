@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Mow the lawn",
+        "project": "House Chores",
+        "elapsed": 5456099,
+        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
+        "runningSince": 1512509798502
+    },
+    {
+        "title": "Clear paper jam",
+        "project": "Office Chores",
+        "elapsed": 1275224,
+        "id": "a73c1d19-f32d-4aff-b470-cea4e792406a",
+        "runningSince": 1456468632194
+    },
+    {
+        "title": "New Timer",
+        "project": "Timing",
+        "id": "02df7fd8-7b45-4fa2-b437-33c041e709e9",
+        "elapsed": 0,
+        "runningSince": 1512509829839
+    }
+]
